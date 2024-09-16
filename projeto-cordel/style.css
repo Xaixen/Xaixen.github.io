@@ -46,7 +46,7 @@ section.imagem{
     background-color: aqua;
     color: white;
     box-shadow: inset 0px 5px 15px rgba(0, 0, 0, 0.363);
-    background-size: cover;
+    background-size: auto;
     background-attachment: fixed;
 }
 
